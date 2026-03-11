@@ -1,0 +1,7 @@
+Mar 11 08:30:01 ubuntu-server kernel: [ 0.000000] Linux version 5.4.0 started
+Mar 11 09:15:32 ubuntu-server sshd[1234]: Accepted password for root from 192.168.1.10
+Mar 11 10:45:15 ubuntu-server systemd[1]: Started Nginx Web Server.
+Mar 11 11:20:00 ubuntu-server kernel: [ 15.1234] usb 1-1: new high-speed USB device connected
+Mar 11 12:05:45 ubuntu-server mysql[888]: WARNING: Database connection timeout!
+Mar 11 13:50:12 ubuntu-server kernel: [ 45.9876] Out of memory: Killed process 1024 (apache2)
+Mar 11 14:10:05 ubuntu-server sshd[1235]: Failed password for invalid user admin from 10.0.0.5
