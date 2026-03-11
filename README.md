@@ -50,7 +50,7 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 
 &#x20;  ```bash
 
-&#x20;  git clone \[https://github.com/KULLANICI\_ADINIZ/linux-syslog-linked-list.git](https://github.com/KULLANICI\_ADINIZ/linux-syslog-linked-list.git)
+&#x20;  git clone \[https://github.com/subhireskilo/linux-syslog-linked-list.git](https://github.com/subhireskilo/linux-syslog-linked-list.git)
 
 ##### 
 
